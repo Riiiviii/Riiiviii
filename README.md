@@ -12,11 +12,11 @@ I'm a Computer Science graduate (Distinction, RMIT) based in Melbourne, focused 
 
 ## What I work with
 
-**Languages:** Python, TypeScript, JavaScript, SQL
-**AI engineering:** OpenAI Agents SDK, Model Context Protocol, FastMCP
-**Backend:** FastAPI, NestJS, Pydantic, PostgreSQL
-**Frontend:** React, Next.js, TanStack Start, Tailwind CSS
-**Infrastructure:** Docker, Fly.io, Neon
+**Languages:** Python, TypeScript, JavaScript, SQL \
+**AI engineering:** OpenAI Agents SDK, Model Context Protocol, FastMCP \
+**Backend:** FastAPI, NestJS, Pydantic, PostgreSQL \
+**Frontend:** React, Next.js, TanStack Start, Tailwind CSS \
+**Infrastructure:** Docker, Fly.io, Neon \
 
 ## Currently
 
@@ -24,4 +24,6 @@ Open to junior AI engineering and full-stack roles in Melbourne or remote. Alway
 
 ## Reach me
 
-📬 [riven.development@gmail.com](mailto:riven.development@gmail.com) · 🌐 [rivenwahnich.dev](https://rivenwahnich.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-riven-wahnich)
+📬 [riven.development@gmail.com](mailto:riven.development@gmail.com) \
+🌐 [rivenwahnich.dev](https://rivenwahnich.dev) \
+💼 [LinkedIn](https://www.linkedin.com/in/gabriel-riven-wahnich)
