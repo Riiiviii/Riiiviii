@@ -16,7 +16,7 @@ I'm a Computer Science graduate (Distinction, RMIT) based in Melbourne, focused 
 **AI engineering:** OpenAI Agents SDK, Model Context Protocol, FastMCP \
 **Backend:** FastAPI, NestJS, Pydantic, PostgreSQL \
 **Frontend:** React, Next.js, TanStack Start, Tailwind CSS \
-**Infrastructure:** Docker, Fly.io, Neon \
+**Infrastructure:** Docker, Fly.io, Neon
 
 ## Currently
 
